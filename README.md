@@ -15,7 +15,7 @@ Um cronômetro digital interativo desenvolvido do zero para fins de estudo e pr�
 ## 📦 Como rodar o projeto localmente
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/anthonyluccas/cronometro-js.git
+   git clone https://github.com/devanthonyferreira/cronometro-js.git
    ```
 2. Abra a pasta do projeto e dê um duplo clique no arquivo `index.html` para executá-lo diretamente no seu navegador.
 
